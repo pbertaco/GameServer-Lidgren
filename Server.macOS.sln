@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.macOS", "Server.macOS\Server.macOS.csproj", "{05DBDE2E-EDAE-4E92-AEC5-1B5185F5D11C}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Server", "Server\Server.shproj", "{B69810D4-4849-4071-967B-64B1184ABCA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DBDE2E-EDAE-4E92-AEC5-1B5185F5D11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DBDE2E-EDAE-4E92-AEC5-1B5185F5D11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DBDE2E-EDAE-4E92-AEC5-1B5185F5D11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DBDE2E-EDAE-4E92-AEC5-1B5185F5D11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
