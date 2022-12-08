@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="Lidgren.Network.Core" Version="8.0.30703" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
   <Import Project="..\Server\Server.projitems" Label="Shared" Condition="Exists('..\Server\Server.projitems')" />
 </Project>
